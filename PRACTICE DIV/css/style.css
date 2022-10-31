@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+}
+#first{
+    background-color: black;
+    padding:37px;
+    text-align: right;
+    
+
+}
+.second{
+    background-color: #0d6efd;
+    color:white;
+    padding:152px 0px 96px;
+    text-align:center;
+
+}
+.second p{
+    font-style:normal;
+    font-weight: 900;
+    font-size: 55px;
+    padding:17px;
+    
+    
+}
+.second h3{
+    font-style:normal;
+    font-weight: 350px;
+    font-size:27px;
+    margin:5px;
+    padding-bottom:19px;
+}
+.second a{
+    text-decoration:none;
+    font-style:normal;
+    font-weight: 300px;
+    font-size:27px;
+    background-color: white;
+    color:black;
+    border-radius: 9px;
+    margin:10px;
+    padding:3px;
+    cursor:pointer;
+
+}
+.third{
+    padding-bottom: 200px;
+}
+.third h1{
+    font-style:normal;
+    font-weight:500px;
+    font-size: 30px;
+    text-align: center;
+    padding:70px;
+}
+.third p{
+    font-style:normal;
+    font-weight:500px;
+    font-size: 21px;
+    text-align: center;
+    
+}
+.fourth{
+    background-color: beige;
+    
+    padding:200px;
+}
+.fourth h1{
+    font-style:normal;
+    font-weight:500px;
+    font-size: 30px;
+    text-align: center;
+    padding:7px;
+
+}
+.fourth p{
+    font-style:normal;
+    font-weight:500px;
+    font-size: 21px;
+    text-align: center;
+    
+    
+} 
+.fith{
+    background-color: white;
+    
+}
+.fifth h1{
+    font-style:normal;
+    font-weight:500px;
+    font-size: 30px;
+    text-align: center;
+    padding:30px;
+
+}
+.fifth p{
+    font-style:normal;
+    font-weight:500px;
+    font-size: 21px;
+    text-align: center;
+    padding:200px;
+}
+.seventh{
+    background-color: black;
+    padding:15px;
+
+}
+.seventh p{
+    text-align:center;
+    color:white;
+    
+}
